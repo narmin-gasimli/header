@@ -1,0 +1,83 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nMain
+{
+    width: 600px;
+    height: 600px;
+}
+.nHeader
+{
+    width: 600px;
+    height: 90px;
+    background: rgb(13, 93, 131);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.nLeft
+{
+    width: 300px;
+    height: 500px;
+    float: left;
+}
+.nArticle
+{
+    width: 295px;
+    height: 390px;
+    background: rgb(13, 93, 131);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+.nFooter
+{
+    width: 300px;
+    height: 90px;
+    background: rgb(13, 93, 131);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.nRight
+{
+    width: 300px;
+    height: 500px;
+    float: left;
+}
+.nNav
+{
+    width: 140px;
+    height: 500px;
+    background: rgb(13, 93, 131);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.nAds
+{
+    width: 145px;
+    height: 500px;
+    background: rgb(13, 93, 131);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-left: 5px;
+}
